@@ -1,0 +1,15 @@
+
+# Local Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local backups
+*.backup
+*.before-ecomind-analytics
+*.before-input-fix
+*.before-plotly-fix
+
+# Local environment and secrets
+.env
+.DS_Store
