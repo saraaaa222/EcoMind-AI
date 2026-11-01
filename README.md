@@ -207,3 +207,17 @@ Development checks performed include:
 **Project branding:** Sara  
 **Academic context:** Intelligent Systems-II mini-project  
 **Focus:** LSTM forecasting, fuzzy logic, and home-energy scenario analysis
+<img width="1440" height="781" alt="Screenshot 2026-10-28 at 8 51 42 PM" src="https://github.com/user-attachments/assets/a2cf316b-c691-4d86-ba3a-261eb85ac913" />
+<img width="1440" height="776" alt="Screenshot 2026-10-28 at 8 51 25 PM" src="https://github.com/user-attachments/assets/6bae9baf-0d50-492f-8557-fd25a9b6a607" />
+<img width="1440" height="778" alt="Screenshot 2026-10-28 at 8 50 56 PM" src="https://github.com/user-attachments/assets/89c3cdf5-a43a-4580-b37a-45a1db0557ed" />
+<img width="1440" height="776" alt="Screenshot 2026-10-28 at 8 51 25 PM 2" src="https://github.com/user-attachments/assets/02ae94d7-bec8-4229-b344-8c595d8d0d01" />
+<img width="1440" height="778" alt="Screenshot 2026-10-28 at 8 50 56 PM 2" src="https://github.com/user-attachments/assets/d1ac462c-b967-4fca-af94-9bee813f3f73" />
+<img width="1440" height="781" alt="Screenshot 2026-10-28 at 8 51 42 PM 2" src="https://github.com/user-attachments/assets/9b5511a6-dd98-4b80-b000-8fa1808270d9" />
+<img width="1440" height="814" alt="Screenshot 2026-10-28 at 8 53 00 PM" src="https://github.com/user-attachments/assets/77b50330-1d08-4a8c-b91e-f8179cca0177" />
+<img width="1440" height="770" alt="Screenshot 2026-10-28 at 8 52 46 PM" src="https://github.com/user-attachments/assets/bc84cb8b-4425-4838-98d5-ad6f1b89d72e" />
+<img width="1440" height="764" alt="Screenshot 2026-10-28 at 8 52 19 PM" src="https://github.com/user-attachments/assets/6a0c1a34-1232-46a1-b041-2cdf0d881d92" />
+<img width="1440" height="784" alt="Screenshot 2026-10-28 at 8 51 54 PM" src="https://github.com/user-attachments/assets/a05c8601-06ce-41a4-80c1-5bc79d807a1c" />
+
+
+
+
